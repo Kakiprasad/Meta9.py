@@ -9,7 +9,7 @@ google-genai
 groq
 apscheduler
 ecocal
-pandas==2.2.2
+--only-binary=:all: pandas
 psutil
 pymongo
 cloudscraper
